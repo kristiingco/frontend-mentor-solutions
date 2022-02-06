@@ -1,0 +1,3 @@
+[submodule "preview-card-component"]
+	path = preview-card-component
+	url = https://github.com/kristiingco/preview-card-component.git
