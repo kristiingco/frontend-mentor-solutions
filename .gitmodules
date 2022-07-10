@@ -4,3 +4,6 @@
 [submodule "planets-fact-site"]
 	path = planets-fact-site
 	url = https://github.com/kristiingco/planets-fact-site.git
+[submodule "forward"]
+	path = forward
+	url = https://github.com/kristiingco/forward.git
