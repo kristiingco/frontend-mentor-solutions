@@ -1,3 +1,6 @@
 [submodule "preview-card-component"]
 	path = preview-card-component
 	url = https://github.com/kristiingco/preview-card-component.git
+[submodule "planets-fact-site"]
+	path = planets-fact-site
+	url = https://github.com/kristiingco/planets-fact-site.git
